@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Achengo
-- 👀 I’m interested in programming, software developement, Iot, Digital devices and Networking.
-- 🌱 I’m currently learning Information Technology And Networking at the DeVry University.
-- 💞️ I’m looking to collaborate on building apps. I am good with Python, Linux and also did some Iot with digital devices.
+- 👀 Interested in programming, software developement, Iot, Digital devices and Networking.
+- 🌱 Currently learning Information Technology And Networking at the DeVry University.
+- 💞️ Looking to collaborate on building apps. I am good with Python, Linux and also did some Iot with digital devices.
 - 📫 You can reach me through my email(achaeric04@gmail.com) and phone number( (859) 551-7183)
 
 <!---
